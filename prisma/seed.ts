@@ -7,7 +7,8 @@ async function main() {
     data: {
       name: "John Doe",
       email: "john.doe@gmail.com",
-      avatarUrl: "https://twitter.com/Dom_Felip3/photo",
+      avatarUrl:
+        "https://www.lance.com.br/files/article_main/uploads/2021/02/28/603bdef934423.jpeg",
     },
   });
 
